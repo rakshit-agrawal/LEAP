@@ -1,0 +1,52 @@
+*.pyc
+*~
+*.bak
+.ipynb_checkpoints/*
+
+## Added for PyCharm
+*.iml
+.idea/
+
+# For VS code
+.vscode/
+
+
+
+## For Data
+*.table
+storage*
+*.db
+*.config
+results/*
+!results/Readme.md
+!results/figs
+results/figs/*
+!results/logs/Readme.md
+libs/
+data/*
+!data/Readme.md
+!data/public_*
+
+!data/README.md
+logs/*
+!*/logs/Readme.md
+!*/Readme.md
+!*/*/Readme.md
+
+## web2py
+progress.log
+cache/*
+databases/*
+errors/*
+sessions/*
+
+## Personal data
+*credentials*
+notes/*
+!notes/public_*
+
+## For outputs
+*outfile*
+
+baselines/
+!results/logs/Readme.md

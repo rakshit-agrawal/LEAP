@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+networkx
+tensorflow-gpu
+h5py
+scikit-learn
+gensim
+pyyaml
+keras
