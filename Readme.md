@@ -1,4 +1,8 @@
-# LEAP 
+# LEAP
+
+_Note: Cleaner and more general implementation of the code on Tensorflow 
+using keras to be realeased soon._
+ 
 ## Learning Edge Properties in Graphs from Path Aggregations
 
 ### Abstract 
@@ -26,9 +30,14 @@ of training edges between 10 to 90%. These examples demonstrate that LEAP, in
 spite of its generality, can match or best the performance of approaches that
 have been especially crafted to solve very specific edge prediction problems.
 
+
+### Slides
+Presentation slides from The Web Conference 2019 - [Link](https://docs.google.com/presentation/d/e/2PACX-1vRPBS9lXB2qVUDivxobUpmunpF_6fwlVpo1by87qUCSIZ13uee6XpBH9gv2JqbouKAdBWdAeDddseCF/pub?start=false&loop=false&delayms=3000)
+
 ### Paper
 
 Rakshit Agrawal and Luca de Alfaro. 2019. Learning Edge Properties in Graphs from Path Aggregations. In The World Wide Web Conference (WWW '19), Ling Liu and Ryen White (Eds.). ACM, New York, NY, USA, 15-25. DOI: [https://doi.org/10.1145/3308558.3313695](https://doi.org/10.1145/3308558.3313695)
+
 
 #### Bibtex
 ```bibtex
