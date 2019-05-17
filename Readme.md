@@ -5,6 +5,10 @@ using keras to be realeased soon._
  
 ## Learning Edge Properties in Graphs from Path Aggregations
 
+### Authors
+* [Rakshit Agrawal](https://rakshitagrawal.com/)
+* [Luca de Alfaro](https://sites.google.com/a/ucsc.edu/luca/)
+
 ### Abstract 
 Graph edges, along with their labels, can represent information of
 fundamental importance, such as links between web pages, friendship between
